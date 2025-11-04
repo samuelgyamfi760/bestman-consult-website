@@ -7,7 +7,7 @@ import {
   ProfileImage,
   MemberName,
   MemberRole,
-} from "./TeamProfiles.styled";
+} from "./Teamprofiles.styled";
 import Director from "../../assets/employees/director.png";
 import Samuel from "../../assets/employees/samuel.png";
 import John from "../../assets/employees/john.png";
